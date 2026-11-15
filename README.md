@@ -263,6 +263,8 @@ The project can be improved in the future by adding:
 
 **Project Name:** Smart Grocery Store Management System
 
+**Author : Muhammad Meesam Ali Sherazi
+
 **Purpose:** Educational project demonstrating Python programming concepts and real-world application development.
 
 ---
